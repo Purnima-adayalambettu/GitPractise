@@ -1,7 +1,3 @@
+
 # GitPractise
-
-Pracrise Git commanda
-
-creating a branch and pushing changes to branch
-
-undo changes after commit
+>>>>>>> parent of b2c4f47 (1st commit)
