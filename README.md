@@ -12,3 +12,4 @@ new commit
 
 trying stash c0mmand
 
+checking stash apply
