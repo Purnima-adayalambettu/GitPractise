@@ -1,4 +1,6 @@
 
+
 # GitPractise
 
-#undo changes after commit
+creating a branch and pushing changes to branch
+
