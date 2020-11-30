@@ -1,1 +1,3 @@
 # GitPractise
+
+Pracrise Git commanda
