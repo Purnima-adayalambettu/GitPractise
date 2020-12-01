@@ -66,3 +66,5 @@ checking Octopus configuration
 
 again
 3rd time
+
+creating release and deploying to octopus
