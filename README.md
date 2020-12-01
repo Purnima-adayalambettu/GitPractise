@@ -25,4 +25,17 @@ chek stash app
 
 hello
 
+
 checkig
+=======
+#stash commands
+stash pop
+=======
+#####stash commands
+practising stash commands
+
+checking stash after staging
+
+checking now
+
+
