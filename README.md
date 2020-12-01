@@ -45,3 +45,7 @@ checking git stash apply
 checking now
 
 
+hello
+=======
+--------------
+there
