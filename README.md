@@ -39,3 +39,9 @@ checking stash after staging
 checking now
 
 checking git status after git stash
+
+=======
+checking git stash apply
+checking now
+
+
